@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dcterms:dc xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ https://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dc:title>Google Colab input file for benchmark results of ML-SEISMIC publication</dc:title>
+  <dc:creator>Thomas Poulet</dc:creator>
+  <dc:subject>Solid mechanics</dc:subject>
+  <dc:subject>Geodynamics</dc:subject>
+  <dc:description>Example Google Colab script used to reproduce one of the benchmark cases from Poulet, T. &amp;amp; Behnoudfar, P., &amp;quot;Physics-informed neural network reconciles Australian displacements and tectonic stresses&amp;quot;, Scientific Reports (2023)</dc:description>
+  <dc:publisher>CSIRO</dc:publisher>
+  <dc:contributor>Pouria Behnoudfar</dc:contributor>
+  <dc:type />
+  <dc:format />
+  <dc:identifier>https://doi.org/10.25919/05na-v616</dc:identifier>
+  <dc:language />
+  <dcterms:spatial xsi:type="dcterms:Point" />
+  <dc:rights />
+</dcterms:dc>
